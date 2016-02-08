@@ -19,4 +19,8 @@ $ sudo ifconfig
 
 You should see the new interface wlan0.
 
+Alternatively, run the following as root:
+
+# curl https://github.com/djcf/rtl8192eu-xbian/blob/master/install.sh | bash
+
 keywords: rtl, realtek 8192eu, linux, kernel, driver, wifi, wlan0, xbian, raspberry pi 2, rbp2, rbpii, rasbperry pi ii.

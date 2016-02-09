@@ -3,7 +3,7 @@ A pre-compiled driver for the realtek 8192eu family for Xbian 4.1.13+ on the Ras
 
 # How to use
 
-$ wget https://github.com/djcf/rtl8192eu-xbian/blob/master/8192eu.ko
+$ wget https://github.com/djcf/rtl8192eu-xbian/raw/master/8192eu.ko
 
 $ sudo mv 8192eu.ko /lib/modules/$(uname -r)/kernel/drivers/net/wireless
 
